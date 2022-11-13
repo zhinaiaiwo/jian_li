@@ -8,15 +8,15 @@ Software architecture description
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  不要谁便看
+2.  说了不要谁便看
+3.  都说了不要谁便看
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  不要谁便看
+2.  说了不要谁便看
+3.  都说了不要谁便看
 
 #### Contribution
 
